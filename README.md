@@ -2,7 +2,7 @@
 
 ## Problem Statement/Objective:
 
-This is Black Friday shopping dataset, from which a retail company “ABC Private Limited” wants to understand the customer purchase behaviour (specifically, purchase amount) against various products of different categories. They have shared purchase summary of various customers for selected high volume products from last month. The data set also contains customer demographics (age, gender, marital status, city_type, stay_in_current_city), product details (product_id and product category) and purchase_amount.
+This is Black Friday shopping dataset, from which a retail company “ABC Private Limited” wants to understand the customer purchase behaviour (specifically, purchase amount) against various products of different categories. They have shared purchase summary of various customers for selected high volume products from last month. The data set also contains customer demographics (age, gender, marital status, city_type, stay_in_current_city), product details (product_id and product category) and purchase_amount.Such predictor has a clear commercial value to the store owners as it would help with their financial planning, inventory management, marketing, and advertising.
 
 Website: https://datahack.analyticsvidhya.com/contest/black-friday/
 
